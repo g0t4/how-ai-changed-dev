@@ -128,7 +128,7 @@ wheels = [
 ]
 
 [[package]]
-name = "how-ai-changed-dev"
+name = "how-it-changed-dev"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
